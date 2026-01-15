@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software developer</h3>
 
 <p align="center">
-  <img src="Arghachakraborty05/img/FullStackDeveloper.gif" width="400"/>
+  <img src="img/FullStackDeveloper.gif" width="400"/>
 </p>
 
 ---
