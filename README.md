@@ -6,6 +6,7 @@
 
 
 ## Connect with me:
+
 <p align="left">
 <a href="https://www.linkedin.com/in/argha-chakraborty-69b7a2282" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="argha-chakraborty" height="30" width="40"/>
 </a>
@@ -13,6 +14,7 @@
 
 
 ## Languages and Tools:
+
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
@@ -26,4 +28,13 @@
 
 
 ## GitHub Stats:
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Arghachakraborty05&" alt="argha-chakraborty" /></p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arghachakraborty05&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arghachakraborty05&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arghachakraborty05&theme=tokyonight" />
+</p>
+
