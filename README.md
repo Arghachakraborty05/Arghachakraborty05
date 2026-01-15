@@ -1,22 +1,20 @@
 <h1 align="center">Hi, This is Argha</h1>
 <h3 align="center">A passionate software developer</h3>
-
-<p align="center">
-  <img src="img/FullStackDeveloper.gif" width="400"/>
-</p>
+<div align="center">
+  <img src="img/FullStackDeveloper.gif"  width="600" height="300"/>
+</div>
 
 ---
 
-## 🌐 Connect with me:
+## Connect with me:
 <p align="left">
-<a href="https://www.linkedin.com/in/argha-chakraborty-69b7a2282" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
+<a href="https://www.linkedin.com/in/argha-chakraborty-69b7a2282" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="argha-chakraborty" height="30" width="40"/>
 </a>
 </p>
 
 ---
 
-## 🛠️ Languages and Tools:
+## Languages and Tools:
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
@@ -30,7 +28,7 @@
 
 ---
 
-## 📊 GitHub Stats:
+## GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Arghachakraborty05&show_icons=true&theme=tokyonight"/>
 </p>
