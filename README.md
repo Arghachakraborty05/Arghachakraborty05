@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software developer</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/akashdip-n/akashdip-n/main/developer.png" width="400"/>
+  <img src="Arghachakraborty05/img/FullStackDeveloper.gif" width="400"/>
 </p>
 
 ---
