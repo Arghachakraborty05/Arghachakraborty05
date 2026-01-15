@@ -26,4 +26,4 @@
 
 
 ## GitHub Stats:
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arghachakraborty05&" alt="argha-chakraborty" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Arghachakraborty05&" alt="argha-chakraborty" /></p>
