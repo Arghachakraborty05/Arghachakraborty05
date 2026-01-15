@@ -4,7 +4,6 @@
   <img src="img/FullStackDeveloper.gif"  width="600" height="300"/>
 </div>
 
----
 
 ## Connect with me:
 <p align="left">
@@ -12,7 +11,6 @@
 </a>
 </p>
 
----
 
 ## Languages and Tools:
 <p align="left">
@@ -26,7 +24,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
 </p>
 
----
 
 ## GitHub Stats:
 <p align="center">
