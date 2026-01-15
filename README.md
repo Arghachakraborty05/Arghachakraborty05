@@ -26,6 +26,4 @@
 
 
 ## GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arghachakraborty05&show_icons=true&theme=tokyonight"/>
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arghachakraborty05&" alt="argha-chakraborty" /></p>
