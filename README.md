@@ -1,7 +1,7 @@
 <h1 align="center">Hi, this is Argha</h1>
 <h3 align="center">A passionate software developer</h3>
 <div align="center">
-  <img src="img/Full Stack Developer.gif"  width="800" height="300"/>
+  <img src="img/Full Stack Developer.gif"  width="750" height="400"/>
 </div>
 
 
